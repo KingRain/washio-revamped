@@ -7,10 +7,7 @@ node_modules/
 .expo/
 dist/
 web-build/
-<<<<<<< Updated upstream
-=======
 expo-env.d.ts
->>>>>>> Stashed changes
 
 # Native
 *.orig.*
@@ -37,8 +34,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-<<<<<<< Updated upstream
-=======
 
 google-services.json
->>>>>>> Stashed changes
